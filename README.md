@@ -108,6 +108,7 @@ clip-faiss/
 ├── requirements.txt           # Requirements file
 └── serve.py                   # Run Web App
 ```
-
+## Blog
+I have documented the process of building this Image Search Engine in a blog post. You can read it [here](https://sandeep-chakraborty.hashnode.dev/how-i-built-an-image-search-engine-with-clip-and-faiss).
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
